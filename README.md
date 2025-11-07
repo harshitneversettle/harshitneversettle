@@ -91,7 +91,9 @@
 
 <h3 align="center">### 💻 LeetCode Stats</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/titan1104?theme=dark&font=Karma&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/titan1104?theme=dark&font=Baloo_2&ext=heatmap&width=600" alt="LeetCode Stats - titan1104"/>
+</p>
 
 ---
 
