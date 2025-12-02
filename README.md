@@ -46,6 +46,19 @@
 
 <h1 align="center">🔥 Proof of Work (Projects)</h2>
 
+#### 🪙 SolEase : Decentralized Lend & Borrow 
+> A Solana-based decentralized lending and borrowing protocol (in progress).  
+**Repo:** [SolEase](https://github.com/harshitneversettle/Capstone_harshit)  
+⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/harshitneversettle/Capstone_harshit?style=social)  
+🍴 Forks: ![GitHub forks](https://img.shields.io/github/forks/harshitneversettle/Capstone_harshit?style=social)  
+
+**🧠 Tech Stack:**  
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-282C34?logo=anchor&logoColor=purple)
+![Solana](https://img.shields.io/badge/Solana-3b00b9?logo=solana&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+
+---
 
 #### 🧩 Mentors Connect  
 > A platform to connect mentors and learners.  
@@ -61,19 +74,7 @@
 
 ---
 
-#### 🪙 Decentralized Lend & Borrow (Capstone Project)  
-> A Solana-based decentralized lending and borrowing protocol (in progress).  
-**Repo:** [Decentralized L&B](https://github.com/harshitneversettle/Capstone_harshit)  
-⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/harshitneversettle/Capstone_harshit?style=social)  
-🍴 Forks: ![GitHub forks](https://img.shields.io/github/forks/harshitneversettle/Capstone_harshit?style=social)  
 
-**🧠 Tech Stack:**  
-![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-282C34?logo=anchor&logoColor=purple)
-![Solana](https://img.shields.io/badge/Solana-3b00b9?logo=solana&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
-
----
 
 #### ⚙️ Moodle Quiz Automation  
 > Automates the redundant copy and pasting of college quizzes.  
