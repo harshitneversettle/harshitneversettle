@@ -76,9 +76,9 @@
 #### 🪙 Solana MEV Analyzer
 > Real-time arbitrage detection across SOL/USDC liquidity pools on Solana Devnet.
 
-**Repository:** [solana-mev-analyzer](https://github.com/harshitneversettle/solana-mev-analyzer)  
-⭐ **Stars:** ![Stars](https://img.shields.io/github/stars/harshitneversettle/solana-mev-analyzer?style=social)  
-🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/harshitneversettle/solana-mev-analyzer?style=social)
+**Repository:** [solana-mev-analyzer](https://github.com/harshitneversettle/solana-mev)  
+⭐ **Stars:** ![Stars](https://img.shields.io/github/stars/harshitneversettle/solana-mev?style=social)  
+🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/harshitneversettle/solana-mev?style=social)
 
 
 **🧠 Tech Stack:**  
