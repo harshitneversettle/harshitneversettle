@@ -59,6 +59,35 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 
 ---
+#### 🧩 Eventum
+> A prediction market built on Solana. .  
+**Repo:** [Eventum](https://github.com/harshitneversettle/Eventum)  
+⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/harshitneversettle/Eventum?style=social)  
+🍴 Forks: ![GitHub forks](https://img.shields.io/github/forks/harshitneversettle/Eventum?style=social)  
+
+**🧠 Tech Stack:**  
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-282C34?logo=anchor&logoColor=purple)
+![Solana](https://img.shields.io/badge/Solana-3b00b9?logo=solana&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+
+---
+
+#### 🪙 Solana MEV Analyzer
+> Real-time arbitrage detection across SOL/USDC liquidity pools on Solana Devnet.
+
+**Repository:** [solana-mev-analyzer](https://github.com/harshitneversettle/solana-mev-analyzer)  
+⭐ **Stars:** ![Stars](https://img.shields.io/github/stars/harshitneversettle/solana-mev-analyzer?style=social)  
+🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/harshitneversettle/solana-mev-analyzer?style=social)
+
+
+**🧠 Tech Stack:**  
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-282C34?logo=anchor&logoColor=purple)
+![Solana](https://img.shields.io/badge/Solana-3b00b9?logo=solana&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+
+---
 
 #### 🧩 Mentors Connect  
 > A platform to connect mentors and learners.  
