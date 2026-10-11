@@ -5,8 +5,7 @@
 
 🚀 **Web2 Developer | DSA Enthusiast | Diving into Web3 & Solana**  
 📍 B.Tech 3rd Year | Madhav Institute of Technology & Science, Gwalior  
-📧 Emails : harshityadav5499@gmail.com | harshityadav.mits@gmail.com  
-
+📧 Emails : harshityadav5499@gmail.com
 ---
 
 ### 🧠 About Me
